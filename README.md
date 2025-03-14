@@ -11,7 +11,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=patlukas&icon=0&color=0)](https://visitcount.itsvg.in)
-[](https://t3l3gram_b0t_4.ct8.pl/visit)
+![](https://t3l3gram_b0t_4.ct8.pl/visit)
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=patlukas.patlukas&"  />
